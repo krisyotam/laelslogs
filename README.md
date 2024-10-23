@@ -6,13 +6,11 @@ Welcome to the Lael Inc. repository! This repository documents the creation and 
 
 ### Lael Inc.
 **Description:**  
-Lael Inc. is an Autonomous AI Solutions provider, focusing on delivering cutting-edge AI-as-a-Service (AIaaS) solutions. We are dedicated to advancing freedom of education, freedom of speech, and other values that promote personal and societal growth through autonomous AI agents.
+Lael Inc. is an Investment Firm dedicated to preservation and growth of the true, good, and beautiful. We are dedicated to advancing freedom of education, freedom of speech, and other values that promote personal and societal growth through autonomous AI agents.
 
 **Mission Values:**
 - **Innovation:** Being community driven.
 - **Ethics:** Upholding high standards of ethical responsibility.
-- **Accessibility:** Ensuring our solutions are accessible to all.
-- **Autonomy:** Empowering users with autonomous AI solutions.
 
 **Repository Link:** [Lael Inc. GitHub](https://github.com/krisyotam/lael-inc)
 
